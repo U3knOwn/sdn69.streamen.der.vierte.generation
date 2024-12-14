@@ -1,0 +1,14 @@
+url: u3known.github.io/sb-wiki
+
+locale: de
+
+branding:
+  title: SdN69
+  label: Wiki
+  logo: static/logo.png
+  logoDark: static/logo.png
+
+edit:
+  repo: "https://github.com/U3knOwn/sb-wiki/edit"
+  branch: "main"
+  label: "Diese Seite bearbeiten"
