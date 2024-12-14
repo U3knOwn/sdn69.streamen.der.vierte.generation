@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://u3known.github.io/sb-wiki/sitemap.xml.gz
